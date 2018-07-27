@@ -9,6 +9,7 @@ The handeled commands:
 
 • /list [$string]: lists the server’s available channels.
   Only display the channels that contain the $string string (when specified)
+  
 • /join $channel: joins a server’s channel
 
 • /part $channel: leaves a channel
