@@ -3,7 +3,7 @@ A 1 week project, This project consists of creating an IRC client and server usi
 
 The handeled commands:
 
-• /server $host[:$port]: connects to a server
+• /server $host[:$port]: connects to a server \n
 • /nick $nickname: defines the user’s nickname in the server
 • /list [$string]: lists the server’s available channels.
   Only display the channels that contain the $string string (when specified)
