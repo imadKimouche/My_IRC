@@ -6,7 +6,7 @@ The handeled commands:
 • /server $host[:$port]: connects to a server
 • /nick $nickname: defines the user’s nickname in the server
 • /list [$string]: lists the server’s available channels.
-Only display the channels that contain the $string string (when specified)
+  Only display the channels that contain the $string string (when specified)
 • /join $channel: joins a server’s channel
 • /part $channel: leaves a channel
 • /users: lists the nicknames of the users that are connected to the server
