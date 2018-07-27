@@ -16,4 +16,5 @@ Only display the channels that contain the $string string (when specified)
 
 Screen:
 
-![irc](https://user-images.githubusercontent.com/36760748/43338728-98d3e6ea-91d7-11e8-9371-1d7ddd853c81.png)
+
+![irc](https://user-images.githubusercontent.com/36760748/43338907-0f2a0d60-91d8-11e8-9255-bedf366fd9c6.png)
