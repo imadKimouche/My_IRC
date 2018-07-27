@@ -10,10 +10,15 @@ The handeled commands:
 • /list [$string]: lists the server’s available channels.
   Only display the channels that contain the $string string (when specified)
 • /join $channel: joins a server’s channel
+
 • /part $channel: leaves a channel
+
 • /users: lists the nicknames of the users that are connected to the server
+
 • /names $channel: lists the nicknames of the users connected to the channel
+
 • $message: sends a message to all of the users that are connected to the channel
+
 • /msg $nickname $message: sends a message to a specific user
 
 Screen:
