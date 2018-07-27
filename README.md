@@ -15,4 +15,5 @@ Only display the channels that contain the $string string (when specified)
 • /msg $nickname $message: sends a message to a specific user
 
 Screen:
+
 ![irc](https://user-images.githubusercontent.com/36760748/43338728-98d3e6ea-91d7-11e8-9371-1d7ddd853c81.png)
